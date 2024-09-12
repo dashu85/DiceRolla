@@ -11,6 +11,7 @@
 		29B336342C91963C00F5CFBF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29B336332C91963C00F5CFBF /* ContentView.swift */; };
 		29B336362C91963D00F5CFBF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29B336352C91963D00F5CFBF /* Assets.xcassets */; };
 		29B3363A2C91963D00F5CFBF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29B336392C91963D00F5CFBF /* Preview Assets.xcassets */; };
+		29B336432C91981C00F5CFBF /* PersistentDiceRollResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29B336422C91981C00F5CFBF /* PersistentDiceRollResult.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		29B336352C91963D00F5CFBF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		29B336372C91963D00F5CFBF /* DiceRolla.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DiceRolla.entitlements; sourceTree = "<group>"; };
 		29B336392C91963D00F5CFBF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		29B336422C91981C00F5CFBF /* PersistentDiceRollResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersistentDiceRollResult.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				29B336312C91963C00F5CFBF /* DiceRollaApp.swift */,
 				29B336332C91963C00F5CFBF /* ContentView.swift */,
+				29B336422C91981C00F5CFBF /* PersistentDiceRollResult.swift */,
 				29B336352C91963D00F5CFBF /* Assets.xcassets */,
 				29B336372C91963D00F5CFBF /* DiceRolla.entitlements */,
 				29B336382C91963D00F5CFBF /* Preview Content */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				29B336342C91963C00F5CFBF /* ContentView.swift in Sources */,
+				29B336432C91981C00F5CFBF /* PersistentDiceRollResult.swift in Sources */,
 				29B336322C91963C00F5CFBF /* DiceRollaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
